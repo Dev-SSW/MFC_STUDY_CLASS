@@ -1,0 +1,1 @@
+# MFC_STUDY_CLASS
