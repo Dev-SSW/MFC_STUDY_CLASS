@@ -137,6 +137,8 @@ void CMFC1011View::OnDraw(CDC* /*pDC*/)
 					BallSize[j] = BallSize[j] - (0.02 * BallSize[j]);
 					BHx[i] = -BHx[i];
 					BHx[j] = -BHx[j];
+					BHy[i] = -BHy[i];
+					BHy[j] = -BHy[j];
 				}
 			}
 		}
